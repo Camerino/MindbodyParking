@@ -97,37 +97,37 @@ Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 4
 
-Bug Name: Application still calculations Cost/Duration with Negative Time values, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Negative Time values, does not spawn error message
 Bug ID: 02
 Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 5
 
-Bug Name: Application still calculations Cost/Duration with Dates outside the 12 month format, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Dates outside the 12 month format, does not spawn error message
 Bug ID: 03
 Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 6
 
-Bug Name: Application still calculations Cost/Duration with Empty Time values, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Empty Time values, does not spawn error message
 Bug ID: 04
 Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 8
 
-Bug Name: Application still calculations Cost/Duration with Empty Date values, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Empty Date values, does not spawn error message
 Bug ID: 05
 Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 9
 
-Bug Name: Application still calculations Cost/Duration with Time value containing letters, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Time value containing letters, does not spawn error message
 Bug ID: 05
 Severity: HIGH
 Priority: HIGH
 Reproduction Steps: See Test Case 10
 
-Bug Name: Application still calculations Cost/Duration with Date values containing letters, does not spawn error message
+Bug Name: Application still calculates Cost/Duration with Date values containing letters, does not spawn error message
 Bug ID: 06
 Severity: HIGH
 Priority: HIGH
